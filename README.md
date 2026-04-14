@@ -13,18 +13,12 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maysapereira&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysapereira&layout=compact&langs_count=16&theme=radical&count_private=true&hide=shell,dockerfile,procfile"/>
 </div>
-  
-  <br>
- 
- ![Snake animation](https://github.com/maysapereira/maysapereira/blob/output/github-contribution-grid-snake.svg)
- 
-<br>
 
-<h2 align="left">✨👩🏻 Um pouco mais sobre mim </h2>
+<h2 align="left">✨👩🏻‍🦰 Um pouco mais sobre mim </h2>
 
 <br>
 
-<p>✨ Tenho 25 anos, sou vegetariana, gamer, fã de terror e mistério, fã do Studio Ghibli e Sanrio, musicalmente eclética e nascida no lugar mais lindo do mundo, o Rio de janeiro, claro.<p>
+<p>✨ Tenho 26 anos, sou vegetariana, gamer, fã de terror e mistério, fã do Studio Ghibli e Sanrio, musicalmente eclética e nascida no lugar mais lindo do mundo, o Rio de janeiro, claro.<p>
 
 <br>
 
